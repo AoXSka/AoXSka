@@ -27,14 +27,8 @@ Professional focused on building high-availability systems, streamlining CI/CD p
 ### 📈 Metrics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AoXSka&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoXSka&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
-
-### 📊 Engineering Metrics
-![Contributions](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Contributions&query=$.total.contributions&url=https%3A%2F%2Fgithub-contributions-api.deno.dev%2FAoXSka.json&color=blue)
-![Top Language](https://img.shields.io/github/languages/top/AoXSka/AoXSka?style=for-the-badge&color=orange)
-
 ---
 
 ### 🔗 Connect with me

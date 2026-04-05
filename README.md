@@ -1,31 +1,38 @@
 # David Castillo | Software, DevOps Engineer & Engineer Mechatronics
-**DevOps Architect • AI Automation Specialist • Full-Stack Developer**
+**Architecting Secure Systems • AI Automation • Infrastructure as Code**
 
-Experienced engineer focused on designing high-concurrency systems and automated infrastructure. Currently architecting **TEO (The Execution Operator)**, an autonomous trading agent integrating LLM-driven logic with low-latency execution.
+Full-Stack Engineer with a security-first mindset. Specialized in building resilient applications, automating DevSecOps pipelines, and developing AI-driven execution systems. Focused on the intersection of high-concurrency software and defensive security.
 
 ---
 
-### 🏗️ Engineering Architecture
+### 🛡️ Cybersecurity & Resilience
+* **DevSecOps:** Integrating security scanning (SAST/DAST) into CI/CD automation.
+* **Hardened Infrastructure:** Container security, VPC architecture, and encrypted data persistence.
+* **Defensive Scripting:** Developing Python-based tools for automated threat detection and system auditing.
+* **OWASP Standards:** Implementing secure authentication (OAuth2/JWT) and protecting against top-tier vulnerabilities.
 
-| Layer | Specialization | Tech Stack |
+---
+
+### 🏗️ Technical Architecture
+
+| Ecosystem | Specialization | Stack |
 | :--- | :--- | :--- |
-| **Execution & Logic** | Scalable Backend & Async Processing | `Node.js` `Python (FastAPI)` `C++` |
-| **Data & Persistence** | Relational & Document Data Modeling | `PostgreSQL` `Redis` `MongoDB` `SQL` |
-| **Cloud & DevOps** | Infrastructure as Code & CI/CD | `Docker` `GitHub Actions` `Linux (Ubuntu/Arch)` |
-| **Intelligence** | AI Agents & Algorithmic Systems | `LangChain` `OpenAI SDK` `Quantitative Analysis` |
+| **Backend** | Secure & Async Systems | `Node.js` `Python (FastAPI)` `SQL` |
+| **DevOps** | Infrastructure & Automation | `Docker` `GitHub Actions` `Linux Hardening` |
+| **Cybersecurity** | Defensive & Auditing | `Burp Suite` `Nmap` `OWASP ZAP` `Pen-Testing` |
+| **Intelligence** | Autonomous Agents | `TEO (Execution Operator)` `LLM Frameworks` |
 
 ---
 
-### 🛠️ Current Development Focus
+### 🛠️ Current Engineering Focus
 
 #### [TEO] The Execution Operator
-* **Infrastructure:** Containerized microservices orchestrated for 24/7 uptime.
-* **Automation:** Python-based algorithmic execution with real-time risk management.
-* **Integration:** Multi-exchange API connectivity (Bybit/Binance) with sub-second latency.
+* **Security:** AES-256 encryption for API key management and encrypted communication channels.
+* **Execution:** Low-latency trading engine with real-time risk management and fail-safe protocols.
 
-#### Workflow Automation & CI/CD
-* Developing custom GitHub Actions to automate testing and deployment for AI-driven scripts.
-* Building internal monitoring tools to track system health and capital performance.
+#### Security Automation
+* Building custom scripts to monitor system integrity and unauthorized access attempts in real-time.
+* Automating dependency vulnerability checks in professional development workflows.
 
 ---
 
@@ -34,6 +41,12 @@ Experienced engineer focused on designing high-concurrency systems and automated
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoXSka&theme=tokyonight" alt="GitHub Streak" height="180px" />
 </p>
+
+### 💻 System Status
+![Security](https://img.shields.io/badge/Security-Hardened-blue?style=flat-square&logo=google-cloud)
+![DevOps](https://img.shields.io/badge/Infrastructure-Containerized-success?style=flat-square&logo=docker)
+![Status](https://img.shields.io/badge/Systems-Active-brightgreen?style=flat-square)
+
 ---
 
 ### 🔗 Connect with me

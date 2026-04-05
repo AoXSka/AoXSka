@@ -1,26 +1,31 @@
 # David Castillo | Software, DevOps Engineer & Engineer Mechatronics
-**Full Stack Developer | Automation Architect | AI Systems Enthusiast**
+**DevOps Architect • AI Automation Specialist • Full-Stack Developer**
 
-Professional focused on building high-availability systems, streamlining CI/CD pipelines, and integrating AI agents for complex task automation. Currently specializing in the intersection of algorithmic execution and cloud infrastructure.
-
----
-
-### 🛠 Technical Ecosystem
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Logic** | Node.js (Express), Python (FastAPI/Scripting), SQL (PostgreSQL/MySQL), NoSQL (MongoDB) |
-| **Frontend** | React.js, TypeScript, Tailwind CSS |
-| **DevOps & Cloud** | Docker, Git, CI/CD Pipelines, Linux Automation, Shell Scripting |
-| **AI & Automation** | LLM Integration, Autonomous Agents (TEO), Algorithmic Trading Systems |
+Experienced engineer focused on designing high-concurrency systems and automated infrastructure. Currently architecting **TEO (The Execution Operator)**, an autonomous trading agent integrating LLM-driven logic with low-latency execution.
 
 ---
 
-### 🔬 Core Focus & Projects
+### 🏗️ Engineering Architecture
 
-* **Autonomous Trading Systems:** Engineering **TEO (The Execution Operator)**, a proprietary trading agent focused on high-precision execution on Bybit API.
-* **DevOps Excellence:** Designing scalable deployment workflows and infrastructure-as-code to ensure 99.9% uptime for automated services.
-* **Workflow Automation:** Building Python-based tooling to eliminate manual overhead in data processing and system monitoring.
+| Layer | Specialization | Tech Stack |
+| :--- | :--- | :--- |
+| **Execution & Logic** | Scalable Backend & Async Processing | `Node.js` `Python (FastAPI)` `C++` |
+| **Data & Persistence** | Relational & Document Data Modeling | `PostgreSQL` `Redis` `MongoDB` `SQL` |
+| **Cloud & DevOps** | Infrastructure as Code & CI/CD | `Docker` `GitHub Actions` `Linux (Ubuntu/Arch)` |
+| **Intelligence** | AI Agents & Algorithmic Systems | `LangChain` `OpenAI SDK` `Quantitative Analysis` |
+
+---
+
+### 🛠️ Current Development Focus
+
+#### [TEO] The Execution Operator
+* **Infrastructure:** Containerized microservices orchestrated for 24/7 uptime.
+* **Automation:** Python-based algorithmic execution with real-time risk management.
+* **Integration:** Multi-exchange API connectivity (Bybit/Binance) with sub-second latency.
+
+#### Workflow Automation & CI/CD
+* Developing custom GitHub Actions to automate testing and deployment for AI-driven scripts.
+* Building internal monitoring tools to track system health and capital performance.
 
 ---
 

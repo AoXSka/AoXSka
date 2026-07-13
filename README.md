@@ -1,17 +1,19 @@
 <div align="center">
 
-<img src="./assets/binary_portrait_animated.svg" width="220" alt="David Castillo" />
+<img src="./assets/binary_portrait_animated.svg" width="200" alt="David Castillo" />
 
 # David Castillo
 ### Software & DevOps Engineer | Mechatronics Engineer
 
-**Architecting Secure Systems • AI Automation • Infrastructure as Code**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Architecting+Secure+Systems;AI+Automation+%2B+Infrastructure+as+Code;Security-First+Full-Stack+Engineer;DevSecOps+%7C+Zero-Trust+by+Default" alt="Typing SVG" />
 
 <em>Full-Stack Engineer with a security-first mindset — building resilient applications, automating DevSecOps pipelines, and developing AI-driven execution systems at the intersection of high-concurrency software and defensive security.</em>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-castillo-b87626163)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://david-system.lat)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celestialcurrentsolution@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AoXSka&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -37,13 +39,7 @@
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,docker,linux,githubactions,postgresql,git,githubactions" alt="Skills" />
 
 </div>
 
@@ -69,6 +65,20 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AoXSka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AoXSka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<br>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AoXSka/AoXSka/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AoXSka/AoXSka/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AoXSka/AoXSka/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
